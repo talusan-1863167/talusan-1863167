@@ -1,0 +1,27 @@
+#Header{
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-image: url(keshi.jpg) 30 round;
+    text-align: center;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  h1{
+    color:blue;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+.rounded {
+	border-radius: 15px;
+	float: center;
+}
